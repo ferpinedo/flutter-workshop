@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "845284711038",
+    "firebase_url": "https://planets-fd574.firebaseio.com",
+    "project_id": "planets-fd574",
+    "storage_bucket": "planets-fd574.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845284711038:android:dc009c56842fdb3cdd562f",
+        "android_client_info": {
+          "package_name": "com.ferpin.planets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845284711038-d9u962f10q7r541i6lsnru3rnah6iuu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATW4eg828dw4VZ_GM31tqmv_YvlhK5lMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845284711038-d9u962f10q7r541i6lsnru3rnah6iuu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
